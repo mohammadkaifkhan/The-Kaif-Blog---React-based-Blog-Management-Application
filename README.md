@@ -40,24 +40,22 @@ ii. Separation of concerns with reusable components.
 
 ### Getting Started
 
-Clone the Repository:
+##### Clone the Repository:
 
-Copy code
+git clone https://github.com/mohammadkaifkhan/The-Kaif-Blog---React-based-Blog-Management-Application.git
 
-Navigate to Project Directory:
+##### Navigate to Project Directory:
 
-bash
-Copy code
 cd the-kaif-blog
-Install Dependencies:
 
-bash
-Copy code
+##### Install Dependencies:
+
 npm install
-Run the Application:
 
-bash
-Copy code
+##### Run the Application:
+
 npm start
-Open in Browser:
+
+##### Open in Browser:
+
 Visit http://localhost:3000 in your browser.
