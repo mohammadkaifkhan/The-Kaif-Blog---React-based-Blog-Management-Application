@@ -2,7 +2,7 @@
 
 ### Overview
 
-"The Kaif Blog" is a React-based application that allows users to manage a blog by listing articles, adding new articles, and deleting existing articles. The project demonstrates the use of various React features and concepts, including useState hook, useEffect hook, Props, handling Fetch Errors, creating a custom hook, handling Submit Events, setting up routes with React Router, utilizing JSX templates, creating reusable components, and managing events.
+"The Kaif Blog" is a React-based application that allows to manage a blog by listing articles, adding new articles, and deleting existing articles. The project demonstrates the use of various React features and concepts, including useState hook, useEffect hook, Props, handling Fetch Errors, creating a custom hook, handling Submit Events, setting up routes with React Router, utilizing JSX templates, creating reusable components, and managing events.
 
 ### Key Features
 
