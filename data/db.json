@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "I recently attended the grand inauguration of my relative's Galaxy-2 Shopping Complex, and it was nothing short of spectacular! The cutting-edge design and diverse range of stores promise a shopping experience like no other. The highlight of the day was the sumptuous feast that followed, treating guests to a gastronomic delight. From mouth-watering delicacies to exquisite desserts, every bite was a celebration. The event was a perfect blend of opulence and warmth, leaving everyone excited about the shopping haven that Galaxy-2 promises to be. Kudos to the team for a stellar start! #Galaxy2Inauguration #ShoppingExtravaganza",
+      "author": "Kaif",
+      "id": 1
+    },
+    {
+      "title": "Joey : Our dog",
+      "body": "Our Joey, the extraordinary chocolate-colored Labrador who stands out as a one-of-a-kind canine companion. With his rare and stunning fur, Joey is not just a pet; he's a unique gem in the world of Labradors. His warm, affectionate nature and playful antics make every day with him special. From fetching balls to long walks, Joey brings joy to our lives. It's not just about having a dog; it's about having an exceptional friend who brightens our days with his unparalleled charm. Joey is more than a pet; he's a cherished member of the family, making every moment unforgettable.",
+      "author": "Yash",
+      "id": 2
+    }
+  ]
+}
